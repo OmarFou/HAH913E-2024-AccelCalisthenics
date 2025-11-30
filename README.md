@@ -32,21 +32,22 @@ HAH913E-2025-AccelCalisthenics/
 
 │ ├── pullups_dips.ipynb
 
-│ └── pushups_bicepsCurls.ipynb
+│ └── pushups.ipynb
 │
+
 │-- data/ # data csv files used by the demo
 
 │ ├── readme.md
-
 │ └── *.csv
 │
+
 │-- results/ # Outputs of the analysis
 
 │ ├── Readme.md
-│ └── *Results1.pdf 
+│ ├── *Results1.pdf 
   └── *Results2.pdf 
-│
-└── report/ # Final written report
+
+│-- report/ # Final written report
 └── Calisthenics_project_report.pdf
 
 
