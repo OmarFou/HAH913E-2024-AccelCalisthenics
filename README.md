@@ -4,7 +4,7 @@ Final Project - HAH913E Physical activity for health
 # Calisthenics Activity Analysis with Accelerometer Data
 
 This project aims to analyze physical activity using accelerometer data in order to build a digital tool that helps users improve their training technique.  
-Our focus is on four calisthenics exercises: **pull-ups, dips and push-ups**.
+Our focus is on three calisthenics exercises: **pull-ups, dips and push-ups**.
 
 The work demonstrates the complete physical activity analysis pipeline:
 - data collection using an accelerometer sensor,
@@ -18,7 +18,7 @@ The work demonstrates the complete physical activity analysis pipeline:
 
 ## Project Structure
 
-HAH913E-2025-AccelCalisthenics/
+HAH913E-2025-Calisthenics/
 
 - README.md # Project overview (this file)
 
