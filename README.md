@@ -1,4 +1,4 @@
-# HAH913E-2025-AccelCalisthenics
+# HAH913E-2025-Calisthenics
 Final Project - HAH913E Physical activity for health
 
 # Calisthenics Activity Analysis with Accelerometer Data
