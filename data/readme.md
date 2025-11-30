@@ -4,12 +4,11 @@ This folder contains the sample accelerometer data used in the project demonstra
 
 ## Contents
 
-- **PullUps_Dips.csv**  
+- **Dips_PU.csv**  
   Raw accelerometer measurements for pull-ups and dips.
 
-- **PushUps_Curls.csv**  
-  Raw accelerometer measurements for push-ups and biceps curls.
-
+- **Push_Ups.csv**  
+  Raw accelerometer measurements for push-ups
 
 ## Data Format
 
