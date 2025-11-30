@@ -23,7 +23,9 @@ HAH913E-2025-AccelCalisthenics/
 │-- README.md # Project overview (this file)
 
 │-- main.ipynb # Main demo notebook (entry point)
+
 │
+
 │-- notebooks/ # Development notebooks
 
 │ ├── README.md
@@ -41,12 +43,12 @@ HAH913E-2025-AccelCalisthenics/
 │-- results/ # Outputs of the analysis
 
 │ ├── Readme.md
-
 │ └── *Results1.pdf 
   └── *Results2.pdf 
 │
 └── report/ # Final written report
 └── Calisthenics_project_report.pdf
+
 
 ## Team Members
 
